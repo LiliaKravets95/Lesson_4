@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,900&display=swap');
+
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"),
+		url("../fonts/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"),
+		url("../fonts/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+header {
+	font-family: "Larsseit";
+	font-style: italic;
+	font-weight: 700;
+	color: red;
+}
+
+h1 {
+	font-family: "Roboto";
+	font-style: italic;
+	font-weight: 400;
+	color: blue;
+}
+
+p {
+	font-family: "Larsseit";
+	font-style: bold;
+	font-weight: 500;
+	color: red;
+}
+
+ul {
+	font-family: "Larsseit";
+	font-style: italic;
+	font-weight: 700;
+	color: lightgreen;
+}
+
+a {
+	font-family: "Roboto";
+	font-style: italic;
+	font-weight: 400;
+	color: chocolate;
+}
+
+ol {
+	font-family: "Larsseit";
+	font-style: bold;
+	font-weight: 500;
+	color: green;
+}
+
+footer {
+	font-family: "Roboto";
+	font-style: italic;
+	font-weight: 400;
+	color: blueviolet;
+}
+
+img {
+	width: 800px;
+	border-radius: 20%;
+}
